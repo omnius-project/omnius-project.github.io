@@ -3,8 +3,8 @@ name: "Omnius Project"
 title: "Omnius Project"
 description: "Markdown Editor"
 meta_description: "Markdown Editor"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: ''
+favicon: ''
 paginate: 12
 baseurl: '/'
 email: 'woojiahao1234@gmail.com'
